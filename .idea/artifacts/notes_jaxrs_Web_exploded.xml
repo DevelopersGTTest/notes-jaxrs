@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="notes-jaxrs:Web_exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/notes_jaxrs_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="notes-jaxrs/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="notes-jaxrs" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
